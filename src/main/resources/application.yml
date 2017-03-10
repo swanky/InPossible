@@ -1,0 +1,5 @@
+server:
+  port: 9478
+management:
+  security:
+    enabled: false
